@@ -1,7 +1,7 @@
 # bond-investment
 
 ISOM3900 (Decision Analytics): Project
-- Applied decision analytics principles (linear programming and Markov chain) to strategize bond investment portfolios
+- Strategic bond investment portfolio based on decision analytics principles - linear programming and Markov Chain
 
 <br>
 
